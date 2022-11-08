@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thebestdad
+- 👋 Hi, I’m @iohamid
 - 👀 I’m interested in learning different types of code languages
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on HTML projects
-- 📫 How to reach me: iohamid#5444 on Discord
+- 📫 How to reach me: iohamid#9460 on Discord
 
 <!---
 thebestdad/thebestdad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
